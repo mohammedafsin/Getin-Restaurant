@@ -2,7 +2,8 @@ Sales Dashboard – Tableau
 
 An interactive Sales Dashboard built in Tableau, analyzing sales, profit, and category performance across the US market (Superstore-style dataset). The dashboard combines geographic, categorical, and trend-based visualizations into a single view for quick business insights.
 
-Show Image
+<img width="1598" height="852" alt="Dashboard using Tableau" src="https://github.com/user-attachments/assets/84515b51-0ce7-433d-b1a2-30a087691b18" />
+
 
 📊 Dashboard Overview
 
